@@ -30,11 +30,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 markdown: kramdown
 # Build settings
-remote_theme: daattali/beautiful-jekyll@6.0.1
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
+  - jekyll-include-cache
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

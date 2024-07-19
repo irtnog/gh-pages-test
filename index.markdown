@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
+nav_order: 1
+description: "SAML standards"
 ---
+# SAML standards
+---
+- Evaluate SAML Implementations: Check the compliance and security posture of your SAML deployments against industry standards and best practices.
+
+- Identify Vulnerabilities: Detect potential vulnerabilities and security weaknesses in SAML configurations to ensure robust protection of your identity infrastructure.
